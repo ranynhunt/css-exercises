@@ -1,0 +1,18 @@
+.odd {
+    background-color: #ff7276;
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.last {
+    font-size: 24px;
+}
+
+#even {
+    background-color: #90ee90;
+    font-weight: bold;
+}
